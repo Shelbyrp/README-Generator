@@ -2,30 +2,32 @@
   # Sample Readme
 
   ## Description
-  Showcasing how to use this application to create a readme file
+   This application works as a readme generator
 
-  ## Table of Contents (Optional)
+  ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-  ## Installation
-  download these files on to your local machine
+  ## Installation 
+   npm must be installed to run this application
 
   ## Usage
-  answer all questions when prompted
+  Download these files, run node index.js
 
   ## License
-  MIT
-
-  ## Contributing
-  contact me
-
-  ## 
   
 
-  ## 
+  ## Contributing 
+   Contact me to be involved.
+
+  ## Tests 
+  Run test using npm command
+
+  ## Questions
   If you have any questions or require further clarification then please contact me at:
   - https://github.com/undefined/
   - shelby.pignat@gmail.com

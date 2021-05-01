@@ -17,34 +17,36 @@ function generateMarkdown(project) {
   return `
   # ${project.title}
 
-  ## ${project.description ? 'Description' : ''}
-  ${project.description ? project.description : ''}
+  ## Description
+  ${project.description}
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-  ## ${project.installation ? 'Installation' : ''}
-  ${project.installation ? project.installation : ''}
+  ## Installation 
+  ${project.installation}
 
-  ## ${project.usage ? 'Usage' : ''}
-  ${project.usage ? project.usage : ''}
+  ## Usage
+  ${project.usage}
 
-  ## ${project.license ? 'License' : ''}
-  ${project.license ? project.license : ''}
+  ## License
+  ${project.license}
 
-  ## ${project.contributing ? 'Contributing' : ''}
-  ${project.contributing? project.contributing : ''}
+  ## Contributing 
+  ${project.contributing}
 
-  ## ${project.tests ? 'Tests' : ''}
-  ${project.tests ? project.tests : ''}
+  ## Tests 
+  ${project.tests}
 
-  ## ${project.questions ? 'Questions' : ''}
+  ## Questions
   If you have any questions or require further clarification then please contact me at:
   - https://github.com/${project.githubUser}/
-  - ${project.email ? project.email : ''}
+  - ${project.email}
 `;
 }
 
