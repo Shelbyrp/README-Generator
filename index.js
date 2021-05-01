@@ -17,19 +17,6 @@ const questions = inquirer
       message: "Provide a description of your project",
     },
     {
-      type: "checkbox",
-      message: "Which elements do you want in your table of contents?",
-      name: "toc",
-      choices: [
-        "Installation",
-        "Usage",
-        "license",
-        "Contributing",
-        "Test",
-        "Questions",
-      ],
-    },
-    {
       type: "input",
       name: "installation",
       message: "Provide your installation notes",

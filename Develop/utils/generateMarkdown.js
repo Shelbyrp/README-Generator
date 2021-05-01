@@ -20,8 +20,11 @@ function generateMarkdown(project) {
   ## ${project.description ? 'Description' : ''}
   ${project.description ? project.description : ''}
 
-  ## ${project.toc ? 'Table of Contents' : ''}
-  ${project.toc ? project.toc : ''}
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
 
   ## ${project.installation ? 'Installation' : ''}
   ${project.installation ? project.installation : ''}

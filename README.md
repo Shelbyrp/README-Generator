@@ -1,28 +1,31 @@
 
-  # s
+  # Sample Readme
 
   ## Description
-  s
+  Showcasing how to use this application to create a readme file
 
-  ## Table of Contents
-  Installation,Usage,license,Contributing,Test,Questions
+  ## Table of Contents (Optional)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
 
   ## Installation
-  s
+  download these files on to your local machine
 
   ## Usage
-  a
+  answer all questions when prompted
 
   ## License
-  Apache License 2.0,GNU General Public License v3.0,MIT,Creative Commons Zero v1.0 Universal,None
+  MIT
 
   ## Contributing
-  s
+  contact me
 
-  ## Tests
-  a
+  ## 
+  
 
   ## 
   If you have any questions or require further clarification then please contact me at:
   - https://github.com/undefined/
-  - a
+  - shelby.pignat@gmail.com
