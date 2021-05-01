@@ -1,8 +1,10 @@
 
   # Sample Readme
 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description
-   This application works as a readme generator
+  This application works as a readme generator
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,16 +15,16 @@
   - [Questions](#questions)
 
   ## Installation 
-   npm must be installed to run this application
+  npm must be installed to run this application
 
   ## Usage
   Download these files, run node index.js
 
   ## License
-  
+  This project is licensed by the MIT license
 
   ## Contributing 
-   Contact me to be involved.
+  Contact me to be involved.
 
   ## Tests 
   Run test using npm command

@@ -17,6 +17,8 @@ function generateMarkdown(project) {
   return `
   # ${project.title}
 
+  [![License: ${project.license}](https://img.shields.io/badge/License-${project.license}-yellow.svg)](https://opensource.org/licenses/${project.license})
+
   ## Description
   ${project.description}
 
@@ -35,7 +37,7 @@ function generateMarkdown(project) {
   ${project.usage}
 
   ## License
-  ${project.license}
+  This project is licensed by the ${project.license} license
 
   ## Contributing 
   ${project.contributing}
