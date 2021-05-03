@@ -1,10 +1,10 @@
 
-  # ss
+  # Readme Generator
 
-  [![License: GNU General Public License v3.0](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  dd
+  This application generates a readme document
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,21 +15,21 @@
   - [Questions](#questions)
 
   ## Installation 
-  ss
+  npm install
 
   ## Usage
-  dd
+  answer all the prompted questions
 
   ## License
-  This project is licensed by the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license
+  This project is licensed by the [MIT](https://opensource.org/licenses/MIT) license
 
   ## Contributing 
-  ss
+  Contact me to contribute
 
   ## Tests 
-  dd
+  npm test
 
   ## Questions
   If you have any questions or require further clarification then please contact me at:
-  - https://github.com/ff/
-  - ss
+  - https://github.com/Shelbyrp/
+  - shelby.pignat@gmail.com
