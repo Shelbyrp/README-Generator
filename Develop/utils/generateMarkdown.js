@@ -1,8 +1,8 @@
 var licenses = {
   "Apache License 2.0": "https://opensource.org/licenses/Apache-2.0",
-  "GNU General Public License v3.0": "",
-  "MIT": "",
-  "Creative Commons Zero v1.0 Universal": "",
+  "GNU General Public License v3.0": "https://www.gnu.org/licenses/gpl-3.0.en.html",
+  "MIT": "https://opensource.org/licenses/MIT",
+  "Creative Commons Zero v1.0 Universal": "https://creativecommons.org/publicdomain/zero/1.0/",
   "None": "",
 }
 

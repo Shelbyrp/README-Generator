@@ -1,10 +1,10 @@
 
   # ss
 
-  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: GNU General Public License v3.0](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
   ## Description
-  ss
+  dd
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,21 +15,21 @@
   - [Questions](#questions)
 
   ## Installation 
-  aa
+  ss
 
   ## Usage
-  ss
+  dd
 
   ## License
-  This project is licensed by the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) license
+  This project is licensed by the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) license
 
   ## Contributing 
-  aa
+  ss
 
   ## Tests 
-  ss
+  dd
 
   ## Questions
   If you have any questions or require further clarification then please contact me at:
-  - https://github.com/aa/
+  - https://github.com/ff/
   - ss
