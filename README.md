@@ -1,10 +1,10 @@
 
-  # Sample Readme
+  # ss
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  This application works as a readme generator
+  ss
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,21 +15,21 @@
   - [Questions](#questions)
 
   ## Installation 
-  npm must be installed to run this application
+  aa
 
   ## Usage
-  Download these files, run node index.js
+  ss
 
   ## License
-  This project is licensed by the MIT license
+  This project is licensed by the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) license
 
   ## Contributing 
-  Contact me to be involved.
+  aa
 
   ## Tests 
-  Run test using npm command
+  ss
 
   ## Questions
   If you have any questions or require further clarification then please contact me at:
-  - https://github.com/undefined/
-  - shelby.pignat@gmail.com
+  - https://github.com/aa/
+  - ss
