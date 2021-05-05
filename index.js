@@ -37,6 +37,11 @@ const questions = [
       message: "How can others contribute?",
     },
     {
+        type: "input",
+        name: "credits",
+        message: "Who would you like to credit?",
+      },
+    {
       type: "input",
       name: "tests",
       message: "What type of tests would you like to include?",
