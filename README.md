@@ -11,6 +11,7 @@
   To create this application, the Inquirer package was used. JavaScript has been utilised to create the program also.
 
   Here is a link to a demo video with a detailed description of how to use this application: [demo video](https://youtu.be/VzmHMKuU32I)
+  ![Generator Demo](./Develop/images/generatordemo.gif)
 
   ## Table of Contents
   - [Installation](#installation)
