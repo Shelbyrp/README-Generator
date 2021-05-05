@@ -42,6 +42,8 @@ function generateMarkdown(project) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -56,6 +58,9 @@ function generateMarkdown(project) {
 
   ## Contributing 
   ${project.contributing}
+
+  ## Credits
+  ${project.credits}
 
   ## Tests 
   ${project.tests}
